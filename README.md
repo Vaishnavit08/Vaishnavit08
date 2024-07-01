@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **100 days of Code Challenge**
 
-- 💬 Ask me about **Data Science | Machine Learning**
+- 💬 Ask me about **Data Science|Machine Learning**
 
 - 📫 How to reach me **vaishnavitalekar293@gmail.com**
 
