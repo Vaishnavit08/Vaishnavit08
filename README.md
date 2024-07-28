@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **100 days of Code Challenge**
 
-- 💬 Ask me about **Data Science|Machine Learning**
+- 💬 Ask me about **Data Science | Machine Learning**
 
-- 📫 How to reach me **vaishnavitalekar293@gmail.com**
+- 📫 How to reach me **vaishnaviitalekar@gmail.com**
 
 - ⚡ About My Journey **My journey into the fascinating world of data science began during my 2nd year of engineering, and I've been captivated ever since. My Data Science Journey Second Year of Engineering: I was introduced to the world of data science and machine learning, which sparked my curiosity and passion for this field. I started with basic courses and projects, gradually delving deeper into more complex topics. Hands-on Projects: Over the years, I have worked on various projects, from image classification using TensorFlow and the CIFAR-10 dataset to generating QR codes with custom designs. These projects have honed my skills in data analysis, model building, and deploying machine learning solutions. Continuous Learning: I believe in continuous learning and staying updated with the latest advancements in data science. I regularly participate in online courses, webinars, and data science competitions to expand my knowledge and skills. Seeking Opportunities: I am actively seeking opportunities to apply my skills in real-world scenarios, collaborate with other professionals, and contribute to impactful projects. Whether it's a challenging data problem or a chance to innovate, I am always eager to take on new challenges.**
 
