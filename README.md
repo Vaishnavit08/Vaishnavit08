@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaishnavii Talekar</h1>
-<h3 align="center">A passionate data science enthusiast.</h3>
+<h3 align="center">Python+Django Full-Stack Web Developer | Machine Learning Enthusiast | Data Science 
+  enthusiast | Python Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavit08&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavit08" /> </p>
 
-- 🔭 I’m currently working on [ML case Studies](Currently going on..)
+- 🔭 I’m currently working on   ML case Studies     (Currently going on..)
 
 - 🌱 I’m currently learning **100 days of Code Challenge**
 
