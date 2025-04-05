@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavit08&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavit08" /> </p>
 
-- 🔭 I’m currently working on   ML case Studies.          (Currently going on...)
+- 🔭 I’m currently working on   Gen-AI & LLM Models.          (Currently going on...)
 
-- 🌱 I’m currently learning **100 days of Code Challenge**
+- 🌱 I’m currently doing **Mastering AI**
 
 - 💬 Ask me about **Data Science | Machine Learning | AI | Python Full Stack Web-Development**
 
